@@ -3,6 +3,8 @@ djml-parser
 
 DJML parser for improved error reporting
 
+Since this project was built for a company, I have excluded certain parts (bad sample XMLs, location of the hosted DTD) as I'm not certain whether those can be shared. The rest though, is fairly general and is in my opinion, for all to see. :-)
+
 To run the script, pull the scripts to local machine. Assuming that php is installed on local machine, run the following command from the appropriate file directory (in terminal/cmd): 
 
     php DJMLParser.php ./bad_djml_samples/sample_djml
